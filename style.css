@@ -1,5 +1,5 @@
 .all_body {
-    color: yellow;
+    color: white;
     background-color: blue;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -16,13 +16,13 @@
     justify-content: center;
 }
 .item {
-    color: white;
+    color: yellow;
     text-decoration: none;
     text-decoration-color: none;
     margin-right: 10px;
 }
 .selected_item {
-    color: white;
+    color: yellow;
     text-decoration: dotted;
     text-decoration-line: underline;
     margin-right: 10px;
