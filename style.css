@@ -1,0 +1,29 @@
+.all_body {
+    color: white;
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.header_link {
+    text-align: center;
+    text-decoration-line: underline;
+    color: white;
+}
+.navbar_items {
+    display: flex;
+    list-style: none;
+    padding-inline-start: 0;
+    justify-content: center;
+}
+.item {
+    color: white;
+    text-decoration: none;
+    text-decoration-color: none;
+    margin-right: 10px;
+}
+.selected_item {
+    color: white;
+    text-decoration: dotted;
+    text-decoration-line: underline;
+    margin-right: 10px;
+}
